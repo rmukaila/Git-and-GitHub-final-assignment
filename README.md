@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Mortage Calculator|   This repo contains python notebook codes for creating a simple mortage calculator              | https://github.com/rmukaila/Mortage_calculator_week5|
+| 2 | Sales Planning program            |    This repo has codes that demonstrates the developement of a piece of software for planning sales in company              | https://github.com/rmukaila/sales_planning_program_week6|
+| 3 | Caesars Cipher Encryption         |   This repository has codes of the basic implementation of the Caesar's Cipher Encryption              | https://github.com/rmukaila/CaesarCipherEncryption_wee7|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
